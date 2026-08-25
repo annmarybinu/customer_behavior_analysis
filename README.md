@@ -151,33 +151,6 @@ The analysis revealed:
 * Optimize discount strategies to balance revenue and profitability
 * Promote top-rated products in marketing campaigns
 * Focus targeted marketing on high-value customer segments
-
----
-
-## Repository Structure
-
-```text
-Customer-Shopping-Behavior-Analysis/
-│
-├── data/
-│   └── customer_shopping_behavior.csv
-│
-├── notebooks/
-│   └── customer_behavior_analysis.ipynb
-│
-├── sql/
-│   └── customer_behavior_analysis.sql
-│
-├── dashboard/
-│   └── Customer_Shopping_Dashboard.pbix
-│
-├── reports/
-│   ├── Project_Report.pdf
-│   └── Gamma_Presentation.pdf
-│
-└── README.md
-```
-
 ---
 
 ## How to Run
